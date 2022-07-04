@@ -9,6 +9,7 @@ Technical documentation is available [here](https://docs.labforge.ca).
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Critical Mineral Identification Using Cameras](https://www.labforge.ca/critical-mineral-identification-using-cameras/)
 - [Labforge and Mouser Electronics Announce Global Distribution Agreement](https://www.labforge.ca/mouser-electronics-and-smart-camera-experts-labforge-announce-global-distribution-agreement/)
 - [Object Detection on an Affordable Microcontroller](https://www.labforge.ca/affordable-microcontroller-for-object-detection/)
 - [3D Imaging in Agricultural Technology](https://www.labforge.ca/3d-imaging-in-agricultural-technology/)
