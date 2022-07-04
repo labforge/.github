@@ -9,7 +9,10 @@ Technical documentation is available [here](https://docs.labforge.ca).
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Labforge and Mouser Electronics Announce Global Distribution Agreement](https://www.labforge.ca/mouser-electronics-and-smart-camera-experts-labforge-announce-global-distribution-agreement/)
+- [Object Detection on an Affordable Microcontroller](https://www.labforge.ca/affordable-microcontroller-for-object-detection/)
+- [3D Imaging in Agricultural Technology](https://www.labforge.ca/3d-imaging-in-agricultural-technology/)
+- [Solar Panel Maintenance Utilizing IoT](https://www.labforge.ca/solar-panel-maintenance-utilizing-iot/)
 <!-- BLOG-POST-LIST:END --> 
 
 <br>
