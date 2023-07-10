@@ -9,6 +9,8 @@ Technical documentation is available [here](https://docs.labforge.ca).
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Machine Vision: Bin Picking Robots to Increase Productivity and Accuracy in Manufacturing](https://www.labforge.ca/machine-vision-bin-picking-robots-to-increase-productivity-and-accuracy-in-manufacturing/)
+- [Revolutionize Industrial Automation with Bottlenose: Now In Stock and Ready to Go](https://www.labforge.ca/revolutionize-industrial-automation-with-bottlenose-now-in-stock-and-ready-to-go-2/)
 - [Latest Updates for Bottlenose](https://www.labforge.ca/latest-updates-for-bottlenose/)
 - [Critical Mineral Identification Using Cameras](https://www.labforge.ca/critical-mineral-identification-using-cameras/)
 - [Labforge and Mouser Electronics Announce Global Distribution Agreement](https://www.labforge.ca/mouser-electronics-and-smart-camera-experts-labforge-announce-global-distribution-agreement/)
